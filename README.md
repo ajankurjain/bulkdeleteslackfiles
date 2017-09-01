@@ -8,8 +8,6 @@ Slack has storage limit for files.
 
 Problem you need to delete old files to free space to still able to upload and share files. To do this, you need to open Slack, find files and delete each one, there’s no way to bulk delete.
 
-So, I wrote this script to do that for me.
-
 ## Using
 
 You will need to clone this repo and just execute in your terminal like this:
