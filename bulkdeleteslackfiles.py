@@ -4,7 +4,7 @@ import time
 import json
 
 #Slack legacy-token (You can get this from https://api.slack.com/custom-integrations/legacy-tokens)
-legacy_token_id = AKIAIOSFODNN7EXAMPLE
+legacy_token_id = '<account_token>'
 
 #Your Slack account url
 base_url = 'https://<slack_account>.slack.com'
